@@ -1,4 +1,4 @@
-# ☁️ Cloud Cost Calculator Pro
+# ☁️ Cloud Cost Calculator 
 
 An enterprise-grade cloud infrastructure cost analysis tool — compare AWS, Azure, and GCP pricing in real time with USD ↔ INR conversion.
 
